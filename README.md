@@ -5,13 +5,18 @@ Ricolino HyperOS For POCO X3/NFC by Alex RG
 
 ## Download
   
-- [A14 1.0.3 ULFCNXM](https://drive.google.com/file/d/1BrXWn0WqtSP7P7ze8Y0xSwvXUnt-sy7e/view?usp=sharing)
+- [A14 1.0.3 ULFCNXM (Video Duration Fixed)](https://drive.google.com/file/d/1BrXWn0WqtSP7P7ze8Y0xSwvXUnt-sy7e/view?usp=sharing)
 
 
 ## Notes:
 - Clean flash MANDATORY.
 - You can report bugs to: [Ricolino Support Group](https://t.me/XL_La)
-
+  
+## Changelog 23/05/2024
+- ReUploaded with new kernel and video duration fixed.
+- Thanks to @HinohArata for the kernel.
+- [Screenshots](https://t.me/XL_Lab/926)
+  
 ## Changelog 02/05/2024
 - Updated base
 - Fixed Video Duration (Is a temporally fix, cuz in 2 or 3 hours of u phone is on, u need to restart it for work again)
